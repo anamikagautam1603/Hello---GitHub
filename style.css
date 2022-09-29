@@ -1,10 +1,114 @@
-.love{
-    height: 300px;width: 300px;
-    border-radius: 20px;
-
+body{
+    background-color: rgb(238, 238, 217);
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 5px;
+    margin: 10px ,15px.10px,15px;
+    padding: 20px 60px 20px 60px ;
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:crimson
+    
 }
+
+  link a {
+    text-decoration: none;
+    text-emphasis-color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+
+   b {  color:rgb(246, 20, 163)
+
+     }
+
+
+   i{
+    font-size: 20px;
+    color: rgb(31, 169, 18);
+    font-style: normal;
+    text-align: center;
+     letter-spacing:1px;
+     word-spacing: 3px;
+     text-transform: capitalize;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     }
+
+    p{
+    font-size: 50px;
+    text-align: left;
+    }
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(188, 180, 39);
+   font-style:bold;
+   letter-spacing:2px;
+     word-spacing: 3px;
+    }
+
+   a hover{ background-color: rgb(213, 159, 240);
+        color: black;
+        font-size: 5px;
+     }
+
+   .list{
+    color:rgb(187, 199, 16) ;
+    font-family: 'Times New Roman', Times, serif; 
+  }
+
+  .love{
+    height: 300px;
+    width: 150px;
+    border-radius: 5px;
+    outline: 5px blue;
+
+    }
 
 audio{
+  
     height: 100px;width: 300px;
     padding: 20px 0 20px 0;
-}
+    }
+
+   table, td, th {  
+    border: 2px solid rgba(21, 21, 0, 0.913);
+    text-align: center;
+    color: rgb(6, 61, 48);
+
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+
+  form{
+    background-color: rgb(245, 244, 206);
+    border: 8px double black;
+    margin: 50px ;
+    width:380px;
+    height: 400px;
+    padding: 20px;
+    word-spacing: 2px;
+    color: rgb(93, 52, 5);
+    text-transform: capitalize
+    
+  }
+
+  .votes :hover  {
+    text-align: center;
+     letter-spacing:1px;
+     word-spacing: 3px;
+     background: black ;
+    color: white;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
+
+   } 
+   
